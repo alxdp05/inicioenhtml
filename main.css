@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Ink&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+   font-family: Reem Kufi Ink;
+}
+
+body {
+    height: 100vh;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+.titulo h1{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 46px;
+    margin-left: -17vw;
+}
+
+.capsec h2 {
+    font-family: Montserrat;
+    font-size: 21px;
+    align-items: center;
+    text-align: left;
+    background-color: grey;
+    padding: 15px 0px 15px 25px;
+    border: solid transparent;
+    border-radius: 20px;
+}
+
+.capsec {
+    position: absolute;
+    align-items: center;
+    width: 25vw;
+    top: 185px;
+    left: 3vw;
+    }
+
+.parrafo {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.capsec2 h2 {
+    font-family: Montserrat;            /*cabecera secundaria*/
+    font-size: 21px;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    padding: 15px 0px 15px 0px;
+    border: solid transparent;
+    border-radius: 20px;
+}
+
+.capsec2 {
+    position: absolute;
+    align-items: center;
+    width: 25vw;
+    top: 185px;
+    left: 37vw;
+    }
+
+.parrafo2 {
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+}
+
+.link h2 {
+    font-family: Montserrat;
+    font-size: 21px;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    padding: 15px 0px 15px 0px;
+    border: solid transparent;
+    border-radius: 20px;
+}
+
+.link {
+    position: absolute;
+    align-items: center;
+    width: 25vw;
+    top: 185px;
+    right: 3vw;
+    }
+
+.link_tx {
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: right;
+}
+
+.imagenes {
+    position: absolute;
+    bottom: 150px;
+    left: 50px;
+  
+}
+
+.imagenes img {                 /*imagenes*/
+    padding: 20px 20px 20px 20px;
+}
